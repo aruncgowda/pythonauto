@@ -1,2 +1,2 @@
 # pythonauto
-Automated the some  of the things using python 
+Automated  some  of the things using python 
